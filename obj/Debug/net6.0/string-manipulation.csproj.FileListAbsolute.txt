@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\bin\Debug\net6.0\string-manipulation.exe
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\bin\Debug\net6.0\string-manipulation.deps.json
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\bin\Debug\net6.0\string-manipulation.runtimeconfig.json
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\bin\Debug\net6.0\string-manipulation.dll
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\bin\Debug\net6.0\string-manipulation.pdb
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.AssemblyInfo.cs
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.dll
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\refint\string-manipulation.dll
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.pdb
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\string-manipulation.genruntimeconfig.cache
+C:\Users\DELL\Desktop\code_TRA\string-manipulation\obj\Debug\net6.0\ref\string-manipulation.dll
